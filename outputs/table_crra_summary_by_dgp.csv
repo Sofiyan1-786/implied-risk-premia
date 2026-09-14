@@ -1,0 +1,6 @@
+,diag_corr_mean,diag_std_ratio_mean,offdiag_corr_min,offdiag_corr_mean,corner_gap_bold_pp,skew_gap_mean,std_ratio_max,std_ratio_min
+Gaussian (GBM),0.999,1.011,0.678,0.899,30.9,0.253,16.129,0.412
+Student-t (nu=5),0.998,1.021,0.616,0.91,30.209,0.2,17.777,0.308
+Student-t (nu=3),0.982,1.092,0.644,0.898,31.196,0.446,17.905,0.331
+Skew-normal,0.998,0.99,0.617,0.91,31.364,-0.013,17.065,0.295
+Jump mixture,0.998,0.997,0.601,0.903,30.804,0.013,17.396,0.317

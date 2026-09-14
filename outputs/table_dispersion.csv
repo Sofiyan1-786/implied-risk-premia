@@ -1,0 +1,3 @@
+,mean_std_ann_pct,median_std_ann_pct,pooled_skew,pooled_excess_kurt
+Gaussian (arith.),59.028,57.993,-0.037,1.417
+Skew-normal,60.564,60.035,-0.005,1.438
